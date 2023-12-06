@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c406e04aba36cbbf38b096504916ce67e5b18f3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

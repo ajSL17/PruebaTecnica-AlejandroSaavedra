@@ -275,3 +275,4 @@ C:\Users\zero_\OneDrive\Documentos\.NET\PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA\PRUEBA
 C:\Users\zero_\OneDrive\Documentos\.NET\PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA\PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\zero_\OneDrive\Documentos\.NET\PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA\PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\zero_\OneDrive\Documentos\.NET\PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA\PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\zero_\OneDrive\Documentos\.NET\PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA\PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA\obj\Debug\net6.0\PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA.sourcelink.json
