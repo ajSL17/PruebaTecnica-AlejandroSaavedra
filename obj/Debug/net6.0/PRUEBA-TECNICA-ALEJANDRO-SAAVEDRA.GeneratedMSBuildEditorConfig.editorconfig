@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PRUEBA_TECNICA_ALEJANDRO_SAAVEDRA
+build_property.RootNamespace = PRUEBA_TECNICA_ALEJANDRO_SAAVEDRA
+build_property.ProjectDir = C:\Users\zero_\OneDrive\Documentos\.NET\PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA\PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\zero_\OneDrive\Documentos\.NET\PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA\PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/zero_/OneDrive/Documentos/.NET/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zero_/OneDrive/Documentos/.NET/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zero_/OneDrive/Documentos/.NET/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zero_/OneDrive/Documentos/.NET/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zero_/OneDrive/Documentos/.NET/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/Views/Trabajadores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhYmFqYWRvcmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zero_/OneDrive/Documentos/.NET/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/Views/Trabajadores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhYmFqYWRvcmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zero_/OneDrive/Documentos/.NET/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/Views/Trabajadores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhYmFqYWRvcmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zero_/OneDrive/Documentos/.NET/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/Views/Trabajadores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhYmFqYWRvcmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zero_/OneDrive/Documentos/.NET/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/Views/Trabajadores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhYmFqYWRvcmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zero_/OneDrive/Documentos/.NET/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zero_/OneDrive/Documentos/.NET/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zero_/OneDrive/Documentos/.NET/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wqdawv76ai

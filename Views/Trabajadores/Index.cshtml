@@ -1,0 +1,72 @@
+﻿@model IEnumerable<PRUEBA_TECNICA_ALEJANDRO_SAAVEDRA.Models.Trabajadore>
+
+<!-- Agrega el bloque de estilos -->
+<style>
+    .azul {
+        background-color: blue; /* Define el color azul */
+        color: white; /* Define el color del texto en contraste */
+    }
+
+    .naranja {
+        background-color: orange; /* Define el color naranja */
+        color: black; /* Define el color del texto en contraste */
+    }
+</style>
+
+<h1>Mantenimiento de Trabajadores</h1>
+
+<form method="get" action="@Url.Action("IndexFiltered", "Trabajadores")">
+    <label for="filtroSexo">Filtrar por Sexo:</label>
+    <select id="filtroSexo" name="sexo">
+        <option value="">Todos</option>
+        <option value="M">Masculino</option>
+        <option value="F">Femenino</option>
+    </select>
+    <input type="submit" value="Filtrar">
+</form>
+
+@if (!string.IsNullOrEmpty(ViewBag.SexoFiltrado))
+{
+    <p>Mostrando trabajadores con sexo: @ViewBag.SexoFiltrado</p>
+}
+else
+{
+    <p>Mostrando todos los trabajadores</p>
+}
+
+<a asp-action="Create" class="btn btn-primary mb-3">Agregar Registro</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.TipoDocumento)</th>
+            <th>@Html.DisplayNameFor(model => model.NumeroDocumento)</th>
+            <th>@Html.DisplayNameFor(model => model.Nombres)</th>
+            <th>@Html.DisplayNameFor(model => model.Sexo)</th>
+            <th>@Html.DisplayNameFor(model => model.IdDepartamentoNavigation)</th>
+            <th>@Html.DisplayNameFor(model => model.IdDistritoNavigation)</th>
+            <th>@Html.DisplayNameFor(model => model.IdProvinciaNavigation)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr class="@(item.Sexo == "M" ? "azul" : "naranja")">
+                <td>@Html.DisplayFor(modelItem => item.TipoDocumento)</td>
+                <td>@Html.DisplayFor(modelItem => item.NumeroDocumento)</td>
+                <td>@Html.DisplayFor(modelItem => item.Nombres)</td>
+                <td>@Html.DisplayFor(modelItem => item.Sexo)</td>
+                <td>@Html.DisplayFor(modelItem => item.IdDepartamentoNavigation.Id)</td>
+                <td>@Html.DisplayFor(modelItem => item.IdDistritoNavigation.Id)</td>
+                <td>@Html.DisplayFor(modelItem => item.IdProvinciaNavigation.Id)</td>
+                <td>
+                    <a asp-action="Edit" class="btn btn-warning mr-2" asp-route-id="@item.Id">Editar Registro</a> |
+                    <a asp-action="Details" class="btn btn-primary mr-2" asp-route-id="@item.Id">Mostrar Detalles</a> |
+                    <a asp-action="Delete" class="btn btn-danger" asp-route-id="@item.Id">Eliminar Registro</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PRUEBA-TECNICA-ALEJANDRO-SAAVEDRA.props" />
+</Project>
